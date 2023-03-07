@@ -1,1 +1,1 @@
-# VTB-NLP-course
+# VTB-NLP-course homework
